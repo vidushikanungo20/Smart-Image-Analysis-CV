@@ -1,0 +1,7 @@
+print("====================================")
+print(" Smart Image Analysis System")
+print("====================================")
+print()
+print("Run the following command to start:")
+print()
+print("python app.py")
